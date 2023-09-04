@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <title>H&H Media - Social Media Marketing Agency - Content Creating - Website Development</title>
         <meta name="description" content="H&H Media is a premier social media marketing agency dedicated to providing comprehensive and tailored digital solutions for businesses of all sizes. With a keen focus on content creation, social media marketing, and website development, H&H Media empowers brands to thrive in the ever-evolving digital landscape. Our team of seasoned experts crafts engaging and impactful content strategies, designs compelling websites, and implements data-driven social media campaigns to effectively meet the unique needs and goals of each client. At H&H Media, we are committed to delivering exceptional results and helping businesses establish a robust online presence that drives growth and success."/>
-        <link rel="icon" href="/logo.jpg" />
+        <link rel="icon" href="/12.png" />
 
       </Head>
 
